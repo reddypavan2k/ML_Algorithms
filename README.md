@@ -41,5 +41,5 @@ To run these notebooks and scripts, install the following dependencies:
 pip install numpy pandas scikit-learn matplotlib seaborn beautifulsoup4 requests
 
 ```
-working on other models
+working on different models
 
